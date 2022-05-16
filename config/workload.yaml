@@ -9,6 +9,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/sample-accelerators/fsharp-weatherforecast
+      url: https://github.com/fabianbrash/weatherforecast-fsharp.git
       ref:
         branch: main
